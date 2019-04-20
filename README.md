@@ -22,3 +22,10 @@ Furthermore, we also conduct some other experiments to show the effectiveness of
 ## 3.Average pulling loss
 
 ## 4.Detail architectures of three supervised methods
+
+## For Reviewe #263597
+
+### 1.Detail setting of supervised methods ResNet, VggNet, and GoogleNet
+
+### 2.Evaluation criteria and correct F1-scores
+
