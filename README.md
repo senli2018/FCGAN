@@ -26,6 +26,22 @@ Furthermore, we also conduct some other experiments to show the effectiveness of
 ## For Reviewe #263597
 
 ### 1.Detail setting of supervised methods ResNet, VggNet, and GoogleNet
+The following table is the structural parameters of the ResNet model.  
+![Image text](https://github.com/senli2018/image/blob/master/ResNet.jpg)  
+The following table is the structural parameters of the VggNet model.  
+![Image text](https://github.com/senli2018/image/blob/master/VggNet.jpg)  
+The following table is the structural parameters of the GoogleNet model.  
+![Image text](https://github.com/senli2018/image/blob/master/GoogleNet.jpg)  
 
 ### 2.Evaluation criteria and correct F1-scores
-
+TP (True Positive): predicting the correct answer  
+FP (False Positive): wrong to predict other classes as this class  
+FN (False Negative): This type of label is predicted to be other types of labels.  
+Precision: refers to the proportion of positive samples in the positive case determined by the classifier:  
+![Image text](https://github.com/senli2018/image/blob/master/precision.gif)  
+Recall: refers to the proportion of the total positive case that is predicted to be positive:  
+![Image text](https://github.com/senli2018/image/blob/master/recall.gif)  
+Represents the classifier to determine the correct proportion of the entire sample:  
+![Image text](https://github.com/senli2018/image/blob/master/acc.gif)  
+F1-score under each category:  
+![Image text](https://github.com/senli2018/image/blob/master/fi.gif)   
