@@ -20,3 +20,5 @@ Furthermore, we also conduct some other experiments to show the effectiveness of
 ### 2.3 GAN based model
 
 ## 3.Average pulling loss
+
+## 4.Detail architectures of three supervised methods
