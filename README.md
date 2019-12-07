@@ -1,7 +1,19 @@
+This is the original code of FCGAN in TensorFlow (>1.2) framework on 40X Toxoplasma images.
+
+The image samples can be downloaded in 
+
+Toxoplasma under 40X microscope:![Download](https://drive.google.com/open?id=1j7KpYeGyIEWOFKc7uwE91dk7ANHDW9x8)
+
+Toxoplasma under 100X microscope:![Download](https://drive.google.com/open?id=1LeloHJE8p8OE93eYMNLiBDkDADwQvUrV)
+
+Source images of banana:![Download](https://drive.google.com/open?id=19VIN0en_VRRKc927TGTDui34iGuJeW3E)
+
+The codes for 100X data can be downloaded in ![Download](https://drive.google.com/open?id=1EcQTRcA-hBc8f97uWWQwh2PDfIEBdK32)
+
 
 # Before 2019.12.7
 # FCGAN
-This page shows some results of new experiments conducted in IJCAI 2019 rebuttal period. Details can be seen in rebuttal context.
+This page shows some results of new experiments conducted in FCGAN. Details can be seen in rebuttal context.
 
 ## 1.Evaluation of different source objects
 For IJCAI 2019 rebuttal, we conduct extensive experiments for different source objects and show their performance on this page. These experiments are divided as four parts, including Image generation in FCGAN, Feature map visualization for each convolutional layers, t-SNE and PCA plot for extracted features, and Occlusion test to find the important discriminative area FCGAN focusing.
