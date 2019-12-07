@@ -1,4 +1,6 @@
-This is the original code of FCGAN in TensorFlow (>1.2) framework on 40X Toxoplasma images.
+# FCGAN
+This page shows the original code and data samples of the paper 'A Novel Transfer Learning Approach for Toxoplasma gondii Microscopic Image Recognition by Fuzzy Cycle Generative Adversarial Network'.
+
 
 The image samples can be downloaded in 
 
@@ -8,12 +10,12 @@ Toxoplasma under 100X microscope:![Download](https://drive.google.com/open?id=1L
 
 Source images of banana:![Download](https://drive.google.com/open?id=19VIN0en_VRRKc927TGTDui34iGuJeW3E)
 
-The codes for 100X data can be downloaded in ![Download](https://drive.google.com/open?id=1EcQTRcA-hBc8f97uWWQwh2PDfIEBdK32)
+The code in this page is for 40X toxoplasma image data, and the code for 100X data can be downloaded in ![Download](https://drive.google.com/open?id=1EcQTRcA-hBc8f97uWWQwh2PDfIEBdK32)
 
 
 # Before 2019.12.7
-# FCGAN
-This page shows some results of new experiments conducted in FCGAN. Details can be seen in rebuttal context.
+
+#FCGAN  Some supplementary results of the FCGAN approach.
 
 ## 1.Evaluation of different source objects
 For IJCAI 2019 rebuttal, we conduct extensive experiments for different source objects and show their performance on this page. These experiments are divided as four parts, including Image generation in FCGAN, Feature map visualization for each convolutional layers, t-SNE and PCA plot for extracted features, and Occlusion test to find the important discriminative area FCGAN focusing.
